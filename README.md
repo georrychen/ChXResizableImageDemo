@@ -3,4 +3,4 @@
 
 截图
 
-![](https://github.com/sunrisechen007/ChXResizableImageDemo/blob/master/demo.png)
+![](https://github.com/sunrisechen007/ChXResizableImageDemo/blob/master/jietu.png)
